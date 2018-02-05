@@ -2,8 +2,18 @@ body {
     background-color: cornsilk;
 }
 
-li {
-    text-align: center; 
+li { 
     list-style-type: none;
     display: inline-block;
+    padding-right: 30px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: firebrick;
+}
+
+p {
+    text-align: center;
 }
